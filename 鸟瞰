@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8V4XWX4J1Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8V4XWX4J1Q');
+</script>
+    <meta charset="UTF-8">
+    <title>鸟瞰</title>
+    <style>
+        body {
+            white-space: pre-wrap;
+            font-family: 'Segoe UI', 'Noto Sans', system-ui, sans-serif;
+            font-size: 1.1em;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 0 1em;
+            background: #fefefe;
+            color: #111;
+        }
+    </style>
+</head>
+<body>
+鸟瞰
+我说我是一只鸟，是什么鸟我也不知道。
+反正我是一只鸟。
+我不在树上飞，我偏在地上走。
+行人见了，说我是只黑鸟。
+好吧，我的确是只黑鸟，我有黑的羽毛。
+
+我见多了人，就像人见多了鸟。
+行人见了，暗暗称奇，说这是只不怕人的鸟。
+好吧，我的确不怕人，我确有小的体型。
+但我飞在天上时，人也比我小得多。
+
+我抬头向上看，有人趴在窗台上。
+他盯着我发呆。
+他想：
+把鸟的尾羽换作绿叶，
+飞到树上。
+那鸟就成了叶子。
+
+好吧，他说的对。
+我的确可以不是鸟。
+</body>
+</html>
