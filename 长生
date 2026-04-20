@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8V4XWX4J1Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8V4XWX4J1Q');
+</script>
+    <meta charset="UTF-8">
+    <title>长生</title>
+    <style>
+        body {
+            white-space: pre-wrap;
+            font-family: 'Segoe UI', 'Noto Sans', system-ui, sans-serif;
+            font-size: 1.1em;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 0 1em;
+            background: #fefefe;
+            color: #111;
+        }
+    </style>
+</head>
+<body>
+人是贪心的动物，现世的爱让人难以餍足。
+人道是，来生的红线自当来生月下牵。
+他和她不愿，要在此生定了来日。
+朝谒梧桐，夕参银杏。
+东游西走，北起炊烟，南安卧榻。
+春种秋收，夏四海求仙，冬百家问道。
+终得一物，可契来生缠绵厮守，再不分离。
+病来，她去。
+他欲仙逝。
+烛不尽。
+染一咒。
+长生。
+</body>
+</html>
